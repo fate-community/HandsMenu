@@ -1,0 +1,6 @@
+C:/Users/user/Testing/Unity.XR.Hands.Samples.VisualizerSample.csproj filter=lfs diff=lfs merge=lfs -text
+C:/Users/user/Testing/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+C:UsersuserTestingLibrarySourceAssetDB filter=lfs diff=lfs merge=lfs -text
+C:UsersuserTestingLibraryArtifactDB filter=lfs diff=lfs merge=lfs -text
+C:UsersuserTestingAssetsSamplesXR filter=lfs diff=lfs merge=lfs -text
+C:UsersuserTestingUnity.XR.Hands.Samples.VisualizerSample.csproj filter=lfs diff=lfs merge=lfs -text
